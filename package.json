@@ -1,7 +1,7 @@
 {
-  "name": "nkn-run-game",
+  "name": "SuperSync-GOGOGO",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "A fun decentralized multi-player online game in NKN network.",
   "author": "KJlmfe <kjlmfe@gmail.com>",
   "private": true,
   "scripts": {
@@ -11,6 +11,13 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "@xkeshi/vue-qrcode": "^1.0.0",
+    "bluebird": "^3.5.1",
+    "buefy": "^0.6.6",
+    "eventemitter3": "^3.1.0",
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0",
+    "nkn-client": "^0.1.1",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
