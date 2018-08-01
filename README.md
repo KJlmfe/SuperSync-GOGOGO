@@ -1,6 +1,13 @@
-# nkn-run-game
+# SuperSync-GOGOGO
 
-> A Vue.js project
+> A fun decentralized multi-player online game in [NKN](https://nkn.org/) blockchain network.
+
+🏆 Got The 3rd place in [2018 DoraHacks Blockchain For Future Hackathon](https://www.eventbrite.com/e/dorahacks-blockchain-for-future-hackathon-registration-46242123436?aff=eac2#)
+
+📰 News:
+ - https://twitter.com/blockchain_con/status/1012073099209080832
+ - https://twitter.com/nebulasio/status/1012245663525101568
+ - https://medium.com/nebulasio/nebulas-events-7a8674690d77
 
 ## Build Setup
 
@@ -14,8 +21,4 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
